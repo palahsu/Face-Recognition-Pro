@@ -10,6 +10,8 @@ High Performance Face Recognition With Green Box! Face Recognition Pro 2020.
 
 `Save Your Picture Face Recogntion Pro Folder`
 
+`https://github.com/palahsu/Face-Recognition-Pro`
+
 `python3 Face Recognition.py`
 
 ## Requirements
