@@ -12,7 +12,9 @@ High Performance Face Recognition With Green Box! Face Recognition Pro 2020.
 
 `https://github.com/palahsu/Face-Recognition-Pro`
 
-`python3 Face Recognition.py`
+`python3 Face Recognition Pro.py`
+
+## If it's not support, Try it Any Compiler and check your cv2 modules.(Spyder or Pycharm or Visual Studio)
 
 ## Requirements
 Python 3.3+ or Python 2.7
