@@ -6,7 +6,7 @@ High Performance Face Recognition With Green Box! Face Recognition Pro 2020.
 
 `Save Your Picture Name this format (face.jpg)`
 
-`Save Your Picture Py Script Folder`
+`Save Your Picture Face Recogntion Pro Folder`
 
 `python3 Face Recognition.py`
 
