@@ -3,13 +3,18 @@ High Performance Face Recognition With Green Box! Face Recognition Pro 2020.
 
 ## How to use:
 `pip install opencv-python`
+
 `Save Your Picture Name this format (face.jpg)`
+
 `Save Your Picture Py Script Folder`
+
 `python3 Face Recognition.py`
 
 ## Requirements
 Python 3.3+ or Python 2.7
+
 ●Windows
+
 ●Linux
 
 For any kind of help, support, suggetion and request ask in my Telegram Group:
