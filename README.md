@@ -1,5 +1,5 @@
 # Face-Recognition-Pro
-High Performance Face Recognition With Green Box! Face Recognition Pro 2020.
+High Performance Face Recognition With Green Box! Face Recognition Pro 2020. (Updated)
 
 ![FACEEEE](https://user-images.githubusercontent.com/49250151/98331943-dd16bb80-2027-11eb-8679-7fee2d8dc64a.PNG)
 
